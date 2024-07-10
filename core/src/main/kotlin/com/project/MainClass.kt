@@ -1,4 +1,4 @@
-package com.github.xpenatan.kotlin
+package com.project
 
 import com.badlogic.gdx.ApplicationAdapter
 import com.badlogic.gdx.Gdx

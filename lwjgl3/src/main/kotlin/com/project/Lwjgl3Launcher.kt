@@ -1,10 +1,9 @@
 @file:JvmName("Lwjgl3Launcher")
 
-package com.github.xpenatan.kotlin.lwjgl3
+package com.project
 
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration
-import com.github.xpenatan.kotlin.MainClass
 
 /** Launches the desktop (LWJGL3) application. */
 fun main() {
